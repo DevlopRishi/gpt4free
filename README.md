@@ -1,5 +1,3 @@
-**A major update is to come this week (statement written 14 Jun)**   
-**You may check these out in the meanwhile**:
 
 - v2 prototype of gpt4free someone made: https://gitler.moe/g4f/gpt4free       
 - Discord bot with gpt-4 using poe.com: https://github.com/xtekky/gpt4free-discord   
